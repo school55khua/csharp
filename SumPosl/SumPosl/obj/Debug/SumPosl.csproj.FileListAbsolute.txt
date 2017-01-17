@@ -1,0 +1,6 @@
+Y:\C#\Турнир 2\SumPosl\SumPosl\bin\Debug\SumPosl.exe.config
+Y:\C#\Турнир 2\SumPosl\SumPosl\bin\Debug\SumPosl.exe
+Y:\C#\Турнир 2\SumPosl\SumPosl\bin\Debug\SumPosl.pdb
+Y:\C#\Турнир 2\SumPosl\SumPosl\obj\Debug\SumPosl.csprojResolveAssemblyReference.cache
+Y:\C#\Турнир 2\SumPosl\SumPosl\obj\Debug\SumPosl.exe
+Y:\C#\Турнир 2\SumPosl\SumPosl\obj\Debug\SumPosl.pdb
